@@ -13,4 +13,4 @@
 
 ###Nikolle Romero
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: [https://github.com/NikolleRR/portafolio-Nikolle.git]
